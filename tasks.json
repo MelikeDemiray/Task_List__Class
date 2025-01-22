@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "feed de cat",
+        "deadline": "2025-01-22",
+        "status": "in progress",
+        "priority": "Low",
+        "color": "Blue"
+    },
+    {
+        "id": 2,
+        "name": "order a new computer for new intern",
+        "deadline": "2025-01-29",
+        "status": "completed",
+        "priority": "High",
+        "color": "Red"
+    }
+]
